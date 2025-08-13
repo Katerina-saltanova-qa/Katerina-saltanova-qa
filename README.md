@@ -79,16 +79,17 @@
 
 ## 🪴 Практика и стажировка
 [<img src="/internship.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/Katerina-saltanova-qa/Katerina-saltanova-qa/refs/heads/main/internship.png)
-
+[<img src="/stepik.png" width="280px" hspace="10px" alt="Сертификат от Степика">](https://raw.githubusercontent.com/Katerina-saltanova-qa/Katerina-saltanova-qa/refs/heads/main/stepik.png)
 <br>
 
 ## 🎒 Образование
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом">](https://raw.githubusercontent.com/Katerina-saltanova-qa/Katerina-saltanova-qa/refs/heads/main/diplom.png)
 
 <br>
-<br>
+
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:saltanova.ekaterina.qa@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://web.telegram.org/k/#@yandere_qa)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
